@@ -7,3 +7,5 @@ target/
 metals.sbt
 node_modules/
 backup/
+project/metals.sbt
+project/project/
